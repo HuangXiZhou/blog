@@ -15,17 +15,19 @@
     "egg-ci": "^1.8.0",
     "egg-mock": "^3.13.0",
     "eslint": "^4.11.0",
-    "eslint-config-egg": "^5.1.0",
+    "eslint-config-egg": "^5.1.1",
     "webstorm-disable-index": "^1.2.0"
   },
   "engines": {
     "node": ">=8.9.0"
   },
   "scripts": {
-    "start": "egg-scripts start --daemon --port=7002",
+    "start": "egg-scripts start --daemon --port=8002",
     "stop": "egg-scripts stop",
     "dev": "egg-bin dev",
     "debug": "egg-bin debug",
+    "fix": "npm run lint -- --fix",
+    "test": "npm run lint -- --fix && npm run test-local",
     "test-local": "egg-bin test",
     "cov": "egg-bin cov",
     "lint": "eslint .",
