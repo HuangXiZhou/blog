@@ -1,7 +1,7 @@
 # Trevor's Blog
 [![Build Status](https://travis-ci.org/HuangXiZhou/blog.svg?branch=master)](https://travis-ci.org/HuangXiZhou/blog)
 
->[**https.blog.trevor.top**](https://blog.trevor.top)
+>[**https://blog.trevor.top**](https://blog.trevor.top)
 >
 >万里不惜死，朝得成功
 
