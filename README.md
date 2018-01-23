@@ -24,6 +24,7 @@
 * [CSS 中的 reflow 与 repaint](https://github.com/HuangXiZhou/blog/issues/24)
 
 ### Node.js
+* [开启一个国际化项目](https://github.com/HuangXiZhou/blog/issues/29)
 * [开发一个天气预报 npm 包](https://github.com/HuangXiZhou/blog/issues/22)
 * [基于 express 实现注册登录功能](https://github.com/HuangXiZhou/blog/issues/4)
 * [Node.js 实现简易爬虫](https://github.com/HuangXiZhou/blog/issues/3)
